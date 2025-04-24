@@ -1,0 +1,21 @@
+body{
+
+  background-color: black;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(182, 180, 180);
+    text-decoration: none;
+}
+iframe{
+
+    margin: 30px;
+    width: 500px;
+    height: 300px;
+}
+a.h1 {
+    text-decoration: none;
+    color: inherit; 
+  }
+  
